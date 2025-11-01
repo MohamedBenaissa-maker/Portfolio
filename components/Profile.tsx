@@ -26,7 +26,7 @@ export default function Profile() {
             }}>
               {!imageError ? (
                 <Image
-                  src="/photo.jpg"
+                  src="/ess.jpg"
                   alt="Mohamed Benaissa"
                   width={200}
                   height={200}
